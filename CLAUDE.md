@@ -38,5 +38,5 @@ Ne pas transformer le projet en SaaS, marketplace ou réseau social.
 
 Ne pas ajouter de dépendances inutiles.
 
-Ne pas faire de 3D lourde.
+3D lourde (Three.js / React Three Fiber) autorisée depuis 2026-07-10, voir AGENTS.md pour les contraintes (lazy-load, ne pas nuire à la clarté en 10s ni à la vitesse mobile).
 

@@ -65,3 +65,4 @@ supabase/.temp
 # misc
 .cache
 .tmp
+.vercel

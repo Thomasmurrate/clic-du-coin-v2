@@ -54,11 +54,15 @@ Il doit donner une impression de sérieux, pas de démo technique.
 
 À éviter :
 - jargon startup ;
-- 3D lourde ;
 - marketplace ;
 - SaaS abstrait ;
 - animations qui masquent le message ;
 - texte trop long.
+
+### 3D
+
+Autorisée depuis 2026-07-10 (validé par Thomas), via Three.js / React Three Fiber (`@react-three/fiber`, `@react-three/drei`).
+Contrainte : reste au service du message, ne doit pas nuire à la compréhension en moins de 10 secondes ni au temps de chargement mobile. À charger en lazy/dynamic import, jamais bloquant pour le premier rendu.
 
 ## Structure recommandée
 
